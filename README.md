@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente trabajando en un equipo para el desarrollo de una app para fletes<br>Programador FullStack<br>Entusiasta en el desarrollo web y dispuesto a adquirir nuevos conocimientos
+Programador FullStack<br>Entusiasta en el desarrollo web y dispuesto a adquirir nuevos conocimientos
 
 
 ## 🌐 Socials:
