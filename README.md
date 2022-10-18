@@ -1,6 +1,6 @@
 # 💫 About Me:
 Programador FullStack<br>Entusiasta en el desarrollo web y dispuesto a adquirir nuevos conocimientos
-
+CV: https://drive.google.com/file/d/19Us1AbFP2KDwDiV1aQrW0hUTR_0jOEMH/view?usp=sharing
 Portafolio: https://portafolio-azure-two.vercel.app/
 
 ## 🌐 Socials:
