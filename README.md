@@ -1,7 +1,7 @@
 # 💫 About Me:
 Programador FullStack<br>Entusiasta en el desarrollo web y dispuesto a adquirir nuevos conocimientos <br>
-CV: https://drive.google.com/file/d/19Us1AbFP2KDwDiV1aQrW0hUTR_0jOEMH/view?usp=sharing <br>
-Portafolio: https://portafolio-azure-two.vercel.app/
+📃CV: https://drive.google.com/file/d/19Us1AbFP2KDwDiV1aQrW0hUTR_0jOEMH/view?usp=sharing <br>
+💼Portafolio: https://portafolio-azure-two.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leandro-martinez-375734241/) 
